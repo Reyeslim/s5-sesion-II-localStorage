@@ -47,7 +47,7 @@ const productos = [
     id: 6,
     nombre: "Auriculares Bluetooth",
     precio: 149.99,
-    categoria: "Audio",
+    categoria: "Accesorios",
     descripcion:
       "Cascos inalámbricos con cancelación de ruido activa y 30h de batería",
     stock: 20,
@@ -56,7 +56,7 @@ const productos = [
     id: 7,
     nombre: "SSD Externo 1TB",
     precio: 119.99,
-    categoria: "Almacenamiento",
+    categoria: "Accesorios",
     descripcion:
       "Disco SSD portátil USB 3.2, velocidad de lectura hasta 1050MB/s",
     stock: 18,
@@ -74,7 +74,7 @@ const productos = [
     id: 9,
     nombre: 'Tablet 10.5" WiFi',
     precio: 329.99,
-    categoria: "Tablets",
+    categoria: "Monitores",
     descripcion:
       "Tablet con pantalla AMOLED, 128GB de almacenamiento y stylus incluido",
     stock: 22,
